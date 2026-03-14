@@ -92,10 +92,11 @@ function searchArrayMulti( $heystack, $needle, $indexSearch, $indexRecurse ) {
 
 function parseCode( $code ) {
    
-   $search = '/<sabedb:(\w+) id="([\w\/\\-_]+)"( ref="){0,1}([\w\/\\-_]*)("){0,1}( pref="){0,1}([\w\/\\-_;:,.]*)("){0,1} \/>/e';
-   $replace = "processToView('\\1','\\2','\\4','\\7')";
-   
-   return preg_replace( $search, $replace, $code );
+   $search = '/<sabedb:(\w+) id="([\w\/\\-_]+)"( ref="){0,1}([\w\/\\-_]*)("){0,1}( pref="){0,1}([\w\/\\-_;:,.]*)("){0,1} \/>/';
+
+   return preg_replace_callback( $search, function( $m ) {
+      return processToView( $m[1], $m[2], $m[4] ?? '', $m[7] ?? '' );
+   }, $code );
    
 }
 

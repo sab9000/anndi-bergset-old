@@ -20,7 +20,7 @@ class Controller extends BaseClass {
          }
    
       }
-      $doPath = $qvars[ 'dopath' ];
+      $doPath = $qvars[ 'dopath' ] ?? '/';
      
       $realdopath = substr( $doPath, 1);
 
@@ -215,7 +215,7 @@ class Controller extends BaseClass {
          'doc' => 'application/msword',
          'pdf' => 'application/pdf',
          'otf' => 'application/x-font-opentype',
-         'otf' => 'application/x-font-ttf'
+         'ttf' => 'application/x-font-ttf'
          );
       if ( array_key_exists( $filetype, $contTypes ) ) {
          

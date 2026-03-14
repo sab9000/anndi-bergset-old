@@ -7,14 +7,14 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
    
 }
 
-$prodId = $_REQUEST[ 'pid' ];
-$seqId = $_REQUEST[ 'sid' ];
-$x = $_REQUEST[ 'x' ];
-$y = $_REQUEST[ 'y' ];
-$type = $_REQUEST[ 'typ' ];
+$prodId = $_REQUEST[ 'pid' ] ?? '';
+$seqId = $_REQUEST[ 'sid' ] ?? '';
+$x = (int) ($_REQUEST[ 'x' ] ?? 0);
+$y = (int) ($_REQUEST[ 'y' ] ?? 0);
+$type = $_REQUEST[ 'typ' ] ?? '';
 
-$resDir = '../../files/webroot/www/resources/products/images/';
-$errorImage = '../../files/webroot/www/images/missingimage.jpg';
+$resDir = __DIR__ . '/../../files/webroot/www/resources/products/images/';
+$errorImage = __DIR__ . '/../../files/webroot/www/images/missingimage.jpg';
 
 // Check if thumbnail or image is requested.
 $thumbPost = '';
@@ -25,7 +25,7 @@ if ( $type == 'thumb' ) {
 }
 
 // Create original filename.
-$fileName = "product-${prodId}-${seqId}${thumbPost}.jpg";
+$fileName = "product-{$prodId}-{$seqId}{$thumbPost}.jpg";
 
 $image = null;
 

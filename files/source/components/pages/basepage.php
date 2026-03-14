@@ -13,7 +13,7 @@ class BasePage extends BaseClass {
    protected $fieldData = array();
    protected $basePrefs = array();
    
-   public function __construct( $basePrefs ) {
+   public function __construct( $basePrefs = array() ) {
       
       $this->basePrefs = $basePrefs;
       

@@ -22,7 +22,7 @@ foreach ($qs as $q ) {
    }
    
 }
-$doPath = $qvars[ 'dopath' ];
+$doPath = $qvars[ 'dopath' ] ?? '/';
 $realdopath = substr( $doPath, 1);
 // Capture root path.
 if ( $realdopath == 'index.php' || $realdopath == 'index.html' ) {
@@ -65,9 +65,10 @@ if ( $content ) {
    $useOOP = false;
    
    // Merge menues.
-   $item = searchArrayMulti( array_merge( $menuTop[$curLang], $menuFront[$curLang], $menuProduct[$curLang] ), $doPath, null, 3 );
+   $item = searchArrayMulti( array_merge( $menuTop[$curLang], $menuFront[$curLang], $menuProduct[$curLang] ?? array() ), $doPath, null, 3 );
+   $urlpath = '';
    if ( !is_null( $item ) ) {
-      
+
       $urlpath = $item[1];
       
    }
@@ -81,24 +82,24 @@ if ( $content ) {
    header( 'Content-Type: text/html; charset=UTF-8' );
    
    // Insert top template if not told otherwise.
-   if ( !$item[ 3 ] === true ) { 
-   
+   if ( ($item[ 3 ] ?? false) !== true ) {
+
       echo parseCode( file_get_contents( 'inc/templ-top.php' ) );
-      
+
    }
    // Insert content.
    if ( !$useOOP && file_exists( $realurl ) ) {
-      
+
       echo parseCode( file_get_contents( $realurl ) );
-      
+
    }
    else {
-      
+
       echo parseOOPath( $doPath );
-      
+
    }
    // Insert bottom template if not told otherwise.
-   if ( !$item[ 3 ] === true ) {
+   if ( ($item[ 3 ] ?? false) !== true ) {
    
       echo parseCode( file_get_contents( 'inc/templ-bottom.php' ) );
       
@@ -118,7 +119,7 @@ else {
       'doc' => 'application/msword',
       'pdf' => 'application/pdf',
       'otf' => 'application/x-font-opentype',
-      'otf' => 'application/x-font-ttf'
+      'ttf' => 'application/x-font-ttf'
       );
    if ( array_key_exists( $filetype, $contTypes ) ) {
       $curCT = $contTypes[ $filetype ];

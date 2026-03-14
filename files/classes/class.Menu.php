@@ -2,7 +2,7 @@
 
 class Menu {
    
-   function makeMenu( $menu, $basepath ) {
+   public static function makeMenu( $menu, $basepath ) {
    
       global $curLang, $supportedLangs;
       
@@ -27,7 +27,7 @@ class Menu {
          if ( isset( $value[3] ) && is_array( $value[3] ) ) {
             
             $mStr .= "\n<ul>\n";
-            $mStr .= $this->makeMenu( $value[3], $basepath );
+            $mStr .= self::makeMenu( $value[3], $basepath );
             $mStr .= "</ul>\n";
             
          }

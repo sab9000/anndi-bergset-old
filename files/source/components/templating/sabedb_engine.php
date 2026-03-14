@@ -15,7 +15,7 @@ class SABEDB_Engine extends BaseClass {
    public function setData( $data ) {
 
       $this->data = $data;
-      $this->ref = $this->data[ 'ref' ];
+      $this->ref = $this->data[ 'ref' ] ?? null;
       
    }
    
@@ -125,9 +125,9 @@ class SABEDB_Engine extends BaseClass {
             // Instantiate class. 
             $object = new $className( $prefs );
             
-            $function = $restParams[ 0 ];
+            $function = $restParams[ 0 ] ?? null;
 
-            if ( !method_exists( $object, $function ) ) {
+            if ( $function === null || !method_exists( $object, $function ) ) {
                            
                $function = 'execute';
                

@@ -8,6 +8,7 @@ class ProductProductgroup extends BasePage {
       $dbList = $this->getDataSet();
 
       $groupArray = array();
+      $out = '';
       foreach ( $dbList->product as $product ) {
 
          if ( in_array( $group, $product->group ) ) {

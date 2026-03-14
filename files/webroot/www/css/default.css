@@ -1,0 +1,486 @@
+@font-face {
+   
+   font-family: sitemodal;
+   src: url("/resources/fonts/anson.ttf");
+   
+}
+@font-face {
+   
+   font-family: sitescript;
+   src: url("/resources/fonts/HoneyScript-SemiBold.ttf");
+   
+}
+
+a:link, a:active, a:visited, a:hover {
+   color: black;
+}
+
+html, body {
+   
+   width: 100%;
+   padding: 0px;
+   margin: 0px;
+   
+}
+
+body {
+   
+   background: white url("/images/top-border-stiches.png") repeat-x top;
+   font-family: arial, verdana, sans-serif;
+   text-align: center;
+   
+}
+
+#mainbox {
+   
+   width: 100%;
+   
+}
+
+#maintopbox {
+   
+   width: 700px;
+   margin: 16px auto 0px auto;
+   overflow: hidden;
+   
+}
+
+ul#mainmenubox {
+   
+   width: 500px;
+   height: 25px;
+   margin: 27px auto 5px auto;
+   padding-top: 5px;
+   font-family: sitemodal;
+   color: black;
+   
+   
+}
+#maintopbox ul#mainmenubox {
+   
+   float: left;
+   margin: 15px 0px 5px 20px;
+   
+   
+}
+ul#mainmenubox li {
+   
+   float: left;
+   list-style-type: none;
+   font-size: 18px;
+   font-weight: bold;
+   padding: 0px 10px;
+   
+}
+ul#mainmenubox li>a {
+   
+   text-decoration: none;
+   
+}
+ul#mainmenubox li>a:hover {
+   
+   color: grey;
+   
+}
+
+#logobox {
+   
+   width: 500px;
+   height: 225px;
+   margin: 0px auto;
+   
+}
+#logobox h1 {
+   
+   font-family: sitescript;
+   font-size: 76px;
+   font-weight: normal;
+   padding: 0px;
+   margin: -30px auto 0px auto;
+   
+}
+
+#logobox_single {
+
+   float: left;
+   width: 60px;
+   height: 57px;
+   margin: 0px auto;
+   
+   
+}
+
+#smbox {
+   
+   width: 760px;
+   height: 20px;
+   margin: 20px auto 0px auto;
+   text-align: left;
+   
+}
+#smbox span {
+   
+   font-size: 80%;
+   color: gray;
+   
+}
+
+#flagbox {
+
+   float: right;
+   width: 50px;
+   height: 20px;
+   margin-top: 20px;
+   
+}
+
+#frontpatchbox {
+   
+   position: relative;
+   width: 100%;
+   height: 400px;
+   margin-top: 20px;
+   
+}
+#fpb_back {
+   
+   position: absolute;
+   top: 30px;
+   left: 0px;
+   width: 100%;
+   height: 283px;
+   background-color: #00746b;
+   z-index: 10;
+   
+}
+#fpb_content {
+   
+   position: relative;
+   margin: 0px auto;
+   width: 760px;
+   height: 400px;
+   z-index: 15;
+   
+}
+.fpb_itemimage {
+   
+   position: absolute;
+   width: 150px;
+   height: 322px;
+   z-index: 30;
+   cursor: pointer;
+   
+}
+.fpb_itemtext {
+
+   position: absolute;
+   display: block;
+   width: 170px;
+   height: 38px;
+   background-color: #b0c63f;
+   font-family: sitescript;
+   font-size: 28px;
+   padding-top: 2px;
+   z-index: 35;
+   cursor: pointer;
+   
+}
+.fpb_itemtext a {
+   
+   text-decoration: none;
+   
+}
+.fpb_item {
+   
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   width: 100%;
+   height: 100%;
+   
+}
+
+.fpb_item1 > .fpb_itemimage {
+   
+   top: 60px;
+   left: 0px;
+   
+}
+.fpb_item1 > .fpb_itemtext {
+   
+   top: 355px;
+   left: 15px;
+   
+}
+
+.fpb_item2 > .fpb_itemimage {
+   
+   top: 0px;
+   left: 185px;
+   
+}
+.fpb_item2 > .fpb_itemtext {
+   
+   top: 10px;
+   left: 120px;
+   
+}
+
+.fpb_item3 > .fpb_itemimage {
+   
+   top: 45px;
+   left: 370px;
+   
+}
+.fpb_item3 > .fpb_itemtext {
+   
+   top: 340px;
+   left: 330px;
+   
+}
+
+.fpb_item4 > .fpb_itemimage {
+   
+   top: 5px;
+   left: 565px;
+   
+}
+.fpb_item4 > .fpb_itemtext {
+   
+   top: 40px;
+   left: 580px;
+   
+}
+
+h1.sectionheading {
+   
+   position: relative;
+   font-family: sitescript;
+   font-size: 96px;
+   font-weight: normal;
+   margin: 85px auto 0px auto;
+   padding: 0px;
+   z-index: 1;
+   
+}
+.sectionheadingart {
+   
+   background-color: transparent;
+   padding: 0px 0px 0px 0px;
+   
+}
+.sectionheadingart_paint {
+   
+   margin: -41px auto 5px auto;
+   
+}
+.sectionheadingart_baking {
+   
+   margin: -200px auto 5px auto;
+   
+}
+.sectionheadingart_graphicdesign {
+   
+   position: relative;
+   margin: -118px auto 5px auto;
+   z-index: 2;
+   
+}
+.sectionheadingart_interiordesign {
+   
+   margin: -140px auto 5px auto;
+   
+}
+
+.sitepicturebox {
+   
+   font-family: sitescript;
+   width: 100%;
+   margin-top: 20px;
+   background-color: #00746b;
+   
+}
+.sitepicturebox .content {
+   
+   margin: 5px auto;
+   width: 760px;
+   padding-bottom: 10px;
+   
+}
+.sitepicturebox .pictureboard {
+   
+   width: 100%;
+   height: 130px;
+   margin: 0px;
+   padding-top: 10px;
+   
+}
+.sitepicturebox .pictureboard .heading {
+   
+   float: left;
+   width: 110px;
+   height: 110px;
+   line-height: 110px;
+   padding: 10px;
+   background-color: #b0c63f;
+   text-align: center;
+   
+}
+.sitepicturebox .pictureboard h2 {
+   
+   font-size: 30px;
+   font-weight: normal;
+   
+   margin: 0px;
+   padding: 0px;
+   display: inline-block;
+   vertical-align: middle;
+   line-height: normal;
+   
+}
+.sitepicturebox .pictureboard p {
+   
+   margin: 0px;
+   padding: 5px 0px;
+   font-size: 15px;
+   
+}
+.sitepicturebox .pictureslider {
+   
+   float: left;
+   margin: 0px 0px 0px 30px;
+   width: 570px;
+   height: 130px;
+   
+}
+.sitepicturebox .pictureslider .slick-slide img {
+   
+   margin: 15px auto 0px auto;
+   
+}
+.sitepicturebox .pictureslider .slick-slide img:hover {
+   
+   cursor: pointer;
+   
+}
+
+.productbox {
+}
+
+.product-item {
+   
+   width: 870px;
+   overflow: hidden;
+   
+}
+.product-item .thumbs {
+   
+   float: left;
+   width: 105px;
+   height: 100%;
+   margin-right: 5px;
+   
+}
+.product-item .thumbs div {
+   
+   float: left;
+   margin-right: 3px;
+   
+}
+.product-item .thumbs img:hover {
+   
+   cursor: pointer;
+   
+}
+.product-item .image {
+   
+   float: left;
+   width: 500px;
+   height: 500px;
+   margin-right: 10px;
+   text-align: center;
+   
+}
+.product-item .image img {
+   
+   margin: 0px auto;
+   
+}
+.product-item .content {
+   
+   float: right;
+   width: 245px;
+   
+}
+.product-item .navigate {
+   
+   position: absolute;
+   width: 120px;
+   height: 20px;
+   right: 15px;
+   bottom: 2px;
+   
+}
+.product-item .switchimage {
+   
+   border: 1px solid green;
+   position: absolute;
+   width: 40px;
+   height: 20px;
+   left: 55px;
+   bottom: 2px;
+   
+}
+
+p.feature, div.feature p {
+   
+   width: 500px;
+   margin: 5px auto 20px auto;
+   text-align: justify;
+   
+}
+div.feature {
+   
+   margin: 0px;
+   padding: 0px;
+   
+}
+
+form {
+   
+   text-align: left;
+   
+}
+form fieldset {
+   
+   width: 500px;
+   margin: 0px auto 0px auto;
+   border: 0px;
+   
+}
+form span {
+   
+   display: block;
+   float: left;
+   width: 100px;
+   
+}
+form input {
+   
+   float: left;
+   width: 370px;
+   
+}
+form textarea {
+   
+   width: 470px;
+   height: 250px;
+   font-family: arial;
+   
+}
+form input[type=submit] {
+   
+   width: 60px;
+   float: right;
+   
+}

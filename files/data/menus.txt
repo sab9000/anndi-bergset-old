@@ -1,0 +1,90 @@
+{
+   "menutop": [
+      {
+         "id": "home",
+         "title_eng": "home",
+         "title_nor": "heim",
+         "url": "/",
+         "path": "home",
+         "template": "home"
+      },
+      {
+         "id": "shop",
+         "title_eng": "shop",
+         "title_nor": "butikk",
+         "url": "/shop",
+         "path": "",
+         "template": "shop"
+      },
+      {
+         "id": "portfolio",
+         "title_eng": "portfolio",
+         "title_nor": "portfolio",
+         "url": "/portfolio",
+         "path": "",
+         "template": "portfolio"
+      },
+      {
+         "id": "about",
+         "title_eng": "about",
+         "title_nor": "om",
+         "url": "/about",
+         "path": "",
+         "template": "about"
+      },
+      {
+         "id": "contact",
+         "title_eng": "contact",
+         "title_nor": "kontakt",
+         "url": "/contact",
+         "path": "",
+         "template": "contact"
+      },
+      {
+         "id": "blog",
+         "title_eng": "blog",
+         "title_nor": "blogg",
+         "url": "http://norwaydiaries.blogspot.no/",
+         "path": "",
+         "template": "blog"
+      }
+      
+   ],
+   "menufront": [
+      {
+         "id": "interiordesign",
+         "title_eng": "Interior Design",
+         "title_nor": "Interiørdesign",
+         "url": "/interiordesign",
+         "path": "",
+         "template": "product.interiordesign"
+      },
+      {
+         "id": "paintandneedlework",
+         "title_eng": "Paint and Needlework",
+         "title_nor": "Måle og nåle",
+         "url": "/paintandneedlework",
+         "path": "",
+         "template": "product.paintandneedlework"
+      },
+      {
+         "id": "graphicdesign",
+         "title_eng": "Graphic Design",
+         "title_nor": "Grafisk design",
+         "url": "/graphicdesign",
+         "path": "",
+         "template": "product.graphicdesign"
+      },
+      {
+         "id": "bakedgoods",
+         "title_eng": "Baked Goods",
+         "title_nor": "Baking",
+         "url": "/bakedgoods",
+         "path": "",
+         "template": "product.bakedgoods"
+      }
+   ]
+}
+
+      
+         

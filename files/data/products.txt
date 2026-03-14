@@ -1,0 +1,1364 @@
+{
+   "product": [
+      {
+         "id": "ms014",
+         "title_eng": "Sipping by the Sea",
+         "title_nor": "Supe ved sjøen",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "4",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms013",
+         "title_eng": "Pink Rose",
+         "title_nor": "Rosa Rose",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "cbks001",
+         "title_eng": "Cherry Blossom Coffee Set",
+         "title_nor": "Kaffisett med kirsebærblomar",
+         "text_eng": "<p>Spring is always in bloom when using this set of 6 espresso cups! Painted with a motif of Japanese cherry blossom branches on both the cup and the saucer, these coffee cups come in a wooden box so carrying them to the table for serving coffee and storing them is both safe and convenient.</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p><p>You can buy this product at <a href=\"http://epla.no/handlaget/produkter/777014/\" target=\"_blank\">Epla.no</a>.</p>",
+         "text_nor": "<p>Det er alltid vår når du brukar desse 6 kaffikoppane! Måla med motiv av japansk kirsebærblomar på både koppar og tefat. Desse koppane kjem i ei trekasse, så det er trygt og praktisk å lagre dei.</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p><p>Du kan kjøpe dette produktet på <a href=\"http://epla.no/handlaget/produkter/777014/\" target=\"_blank\">Epla.no</a>.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "dwb001",
+         "title_eng": "Dogwood Bowl",
+         "title_nor": "Skål med blomar av dogwoodtre",
+         "text_eng": "<p>Sweet dogwood blossoms decorate this blue and white ceramic bowl. Used for clementines, berries, nuts and more, this bowl has endless uses!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Søt dogwoodbløming prydar denne blå og kvite keramikkbollen. Til bruk for klementinar, bær, nøtter og anna. Denne bollen har endelaust potensiale!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "915"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "dwc001",
+         "title_eng": "Dogwood Compote",
+         "title_nor": "Kompottskål med blomar av dogwoodtre",
+         "text_eng": "<p>Sweet dogwood blossoms decorate this compote dish. Used for homemade strawberry jam or even wrapped sweets, this delicate dish can compliment any sideboard.  Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Søt dogwoodbløming prydar denne kompottskåla. Bruk til heimelanag jordbærsyltetøy eller snop. Denne delikate skåla kan sjå bra ut i alle stover.</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "dwt001",
+         "title_eng": "Dogwood Tealight",
+         "title_nor": "Telys med blomar av dogwoodtre",
+         "text_eng": "<p>Dogwood blossoms wrap around this delicate glass tea light holder and glow from behind as the candle flickers.</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Dogwoodbløming snor seg rundt denne delikate telysholdaren i glas og gløder frå baksida når flammen dansar</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "536",
+            "imgy": "750"
+            },
+            {
+            "seqid": "2",
+            "imgx": "485",
+            "imgy": "750"
+            }
+         ]
+      },
+      {
+         "id": "sp001",
+         "title_eng": "Shell Platter",
+         "title_nor": "Skjellfat",
+         "text_eng": "<p>Whether in snow or in sand, shells are a reminder of warm sunny days and the magic that nature creates in the depths of the ocean. This platter can be used to serve breads, cheeses, fruits or even showcase some candles. Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>I snø eller sand, skjella minner oss om varme solfylte dagar og magien som naturen skapar i havdjupet. Dette fatet kan brukast til å servere brød, ostar, frukt eller til og med stearinlys.</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "914"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "bcc001",
+         "title_eng": "Cupcakes",
+         "title_nor": "Cupcakes",
+         "text_eng": "<p>Any party or gathering tastes a little better with cupcakes! Only made with the best ingredients let me know what flavor combination you want to try!</p>",
+         "text_nor": "<p>Ein kvar fest eller samkome smakar litt betre med cupcakes. Kun laga av dei beste ingrediensar. Sei i frå kva smakskombinasjon du ynskjer!</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "956",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "bgc001",
+         "title_eng": "GeoCake",
+         "title_nor": "Geokake",
+         "text_eng": "<p>My husband found it difficult to find his birthday cake this year! Modeled after an ammo can (commonly used for geocaching) everything on this cake was edible – including the rocks, sticks and leaves! The fondant is not marsipan but is homemade from marshmallows and powdered sugar. The cake flavor inside was my famous apple-zucchini spice cake (without any added sugar – honey is used instead) with a cream cheese frosting. This is my most requested cake flavor.</p>",
+         "text_nor": "<p>Mannen min syns det var vanskeleg å finne bursdagskake i år! Denne er etter modell av ei ammunisjonskasse (vanleg til bruk i geocaching). Alt i denne kaka var etande, til og med steinane, pinnane og blada! Fondanten er ikkje marsipan, men er heimelaga av marshmallows og melis. Kakebotnen var min vidgjetne eple-squash-krydderkake (utan tilsett sukker - honning er brukt i staden) med kremost fyll. Dette er mi mest bestilte kaketype.</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "bkk001",
+         "title_eng": "Kransekake with Firecrackers",
+         "title_nor": "Kransekake med smellbonbonar",
+         "text_eng": "<p>The traditional Norwegian kransekake with firecrackers and flags is popular for high holy days and other celebrations. I made my first kransekake from scratch in 2013 in the US to surprise my husband and my American family at our state-side wedding reception/picnic. I use whole almonds and grind them myself and use only the best egg whites and powdered sugar. I do occassionally use a tablespoon of flour to help with the shaping but if you need it to be gluten free I can forego the flour.</a>",
+         "text_nor": "<p>Den tradisjonelle norske kransekaka med smellbonbonar og flagg er populær til høtid og fest. Eg laga mi første kransekake frå grunnen av i 2013 i USA for å overraske mannen min og min amerikanske familie på vår amerikanske bryllaupsfest. Eg brukar heile mandlar og kverner dei sjølv og brukar berre den beste eggekvite og melis. Eg brukar av og til ei spiseskei med mjøl for å hjelpe til med forminga, men viss den må vere glutenfri brukar eg ikkje mjøl.</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "960"
+            }
+         ]
+      },
+      {
+         "id": "bkk002",
+         "title_eng": "Kransekake with Color",
+         "title_nor": "Kransekake med farge",
+         "text_eng": "<p>For our Fourth of July party last year I wanted to have a little fun with the kransekake and experimented by adding just a little bit of gel food coloring to the homemade dough. It turned out in a spectacular fashion! Any color combination is possible! Always having extra kransekake dough, I used the leftover to make the star and heart cookies to decorate. If you would like some extra cookies to have on the side or to decorate your kransekake I can make that happen! Here's also some examples of other colored kransekake I have made.</p>",
+         "text_nor": "<p>Til vår 4. juli-fest i fjor ynskte eg å ha det litt moro med kransekaka så eg eksperimenterte med å tilsetje litt gelefarge i den heimelaga deigen. Resultatet vart fantastisk! Alle fargekombinasjonar er mulige! Av deigrestane laga eg stjerne- og hjertekjeks for dekorasjon. Viss du vil ha litt ekstra kjeks ved sida eller som dekorasjon så kan eg ordne det! Her er også nokre eksempel på andre farga kransekaker eg har laga.</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "956",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "915",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "5",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "bph001",
+         "title_eng": "Pepparkakehus",
+         "title_nor": "Pepparkakehus",
+         "text_eng": "<p>This ginger bread house was designed after the apple shed down by the fjord that my father-in-law has been refurbishing. The mountain was made from breakfast cereal and marshmallows and I found other types of candy to replicate the real house. The blue “fjord water” is melted sugar.</p>",
+         "text_nor": "<p>Dette pepperkakehuset vart utforma som \"eplehuset\" som svigerfar min har rusta opp nede ved fjorden. Bakken vart laga av frukostblanding og marshmallows, og eg fann ulike typar snop for å bygge kopien av originalhuset. Det blå \"fjordvatnet\" er smelta sukker.</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "956"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "956"
+            },
+            {
+            "seqid": "3",
+            "imgx": "956",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "956",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "5",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "byc001",
+         "title_eng": "Ball of Yarn Cake",
+         "title_nor": "Garnnøstekake",
+         "text_eng": "<p>This purple ball of yarn was created for a master crocheter! A layer of homemade fondant smoothly covered the apple-zuchinni cake and cream cheese frosting. It was then dressed with rolled pieces of fondant “yarn” and topped with a fondant crochet hook.</p>",
+         "text_nor": "<p>Dette fiolette garnnøstet vart laga til ein mesterheklar! Eit lag med heimelaga fondant dekkjer eple-squash-kaka som har kremostfyll. Så vart den dekka av utrulla fondantbitar for å forestille garntråd. På toppen vart det lagt ein heklekrok av fondant.</p>",
+         "group": [ "baking" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "ds001",
+         "title_eng": "Epledo",
+         "title_nor": "Epledo",
+         "text_eng": "<p>\"Do\" means \"bathroom\" in norwegian. (Pronounced like dough). This little door sign hangs on the out-house door down at the fjord where our family has an apple shed. We call it the \"epledo\" or \"apple bathroom\".</p>",
+         "text_nor": "<p>Dette vesle dørskiltet heng på utedodøra nede ved fjorden der familien vår har eit eplehus. Vi kallar det \"epledo\".</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "il001",
+         "title_eng": "Thanksgiving Illustration I",
+         "title_nor": "Illustrasjon til Thanksgiving I",
+         "text_eng": "<p>Painted with watercolor, this invitation was used for our Norwegian-American Thanksgiving dinner in 2014. Hand-drawn illustrations are available for a variety of uses: from invitations and birth announcements to personalized room decorations. The images can also be scanned and used for Facebook events or email invites.</p>",
+         "text_nor": "<p>Denne invitasjonen måla med vannfargar vart brukt til vår norsk-amerikanske Thanksgiving-middag i 2014. Handteikna invitasjonar er tilgjengeleg for mange ulike situasjonar: frå invitasjonar og takkekort til personlege romdekorasjonar. Bilda kan også scannast og brukast til Facebook-hendingar eller epost-invitasjonar.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "935",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "il002",
+         "title_eng": "Thanksgiving Illustration II",
+         "title_nor": "Illustrasjon til Thanksgiving II",
+         "text_eng": "<p>This invitation for our first-annual Norwegian-American Thanksgiving dinner in 2013 was hand-drawn with colored pencils and ink. Hand-drawn illustrations are available for a variety of uses: from invitations and birth announcements to personalized room decorations. The images can also be scanned and used for Facebook events or email invites.</p>",
+         "text_nor": "<p>Denne invitasjone vart handmåla med fargeblyantar og blekk til vår første årlege norsk-amerikanske Thanksgiving-middag i 2013. Handteikna invitasjonar er tilgjengeleg for mange ulike situasjonar: frå invitasjonar og takkekort til personlege romdekorasjonar. Bilda kan også scannast og brukast til Facebook-hendingar eller epost-invitasjonar.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "874"
+            }
+         ]
+      },
+      {
+         "id": "il003",
+         "title_eng": "Fourth of July Illustration",
+         "title_nor": "Illustrasjon til 4.juli",
+         "text_eng": "<p>Our family welcomed a new puppy just before our Fourth of July party in 2014 so I drew a picture of her with colored pencil and ink for the invitation.  Hand-drawn illustrations are available for a variety of uses: from invitations and birth announcements to personalized room decorations. The images can also be scanned and used for Facebook events or email invites.</p>",
+         "text_nor": "<p>Vår familie fekk ein ny kvalp rett før vår 4. juli-fest i 2014, så eg teikna eit bilete av henne med fargeblyant og blekk til invitasjonen. Handteikna invitasjonar er tilgjengeleg for mange ulike situasjonar: frå invitasjonar og takkekort til personlege romdekorasjonar. Bilda kan også scannast og brukast til Facebook-hendingar eller epost-invitasjonar.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "907",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "jl001",
+         "title_eng": "Skyline Jar Lantern",
+         "title_nor": "Glaslanterne med bysilhuett",
+         "text_eng": "<p>This tea light jar lantern was painted to remind an American expat living in Norway of her hometown, Minneapolis. The skyline wraps around the jar and when the candle is lit inside it glows just like sunset over the famous city.</p><p>One tea light candle is included with every jar lantern.</p>",
+         "text_nor": "<p>Denne glaslanterna for telys vart måla for å minne ein amerikanar i Norge om hennar heimby, Minneapolis. Bysilhuetten dekkjer heile omkretsen av glaset. Når telyset er kveikt skin det akkurat som solnedgangen over den kjende byen.</p><p>Eitt telys er inkludert med kvar glaslanterne.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "795",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms001",
+         "title_eng": "Åsekråna Coffee Set",
+         "title_nor": "Åsekråna kaffisett",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "ms002",
+         "title_eng": "Cow Smooch",
+         "title_nor": "Kyrakos",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms003",
+         "title_eng": "Postcard from India",
+         "title_nor": "Postkort frå India",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms004",
+         "title_eng": "Musical Universe",
+         "title_nor": "Musikalsk univers",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms005",
+         "title_eng": "Scuba at Sunset",
+         "title_nor": "Dykking i solnedgang",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms006",
+         "title_eng": "Slow Country Nights",
+         "title_nor": "Sein natt på landet",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms007",
+         "title_eng": "Beachbums",
+         "title_nor": "Strandfolk",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms008",
+         "title_eng": "DJ Bodil",
+         "title_nor": "DJ Bodil",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms009",
+         "title_eng": "South American Paragliders",
+         "title_nor": "Søramerikansk paragliderar",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms010",
+         "title_eng": "Rythym in Lines",
+         "title_nor": "Rytme i linjer",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms011",
+         "title_eng": "Heidi Hansen Photography",
+         "title_nor": "Heidi Hansen Photography",
+         "text_eng": "<p>The Mugshots series are custom painted mugs based on the interests of the recipient. From paragliding to puppies and more the subject can be anything!</p><p>Care Procedure: Handwash in warm water and dish soap. Do not machine wash.</p>",
+         "text_nor": "<p>Krusturist-serien er spesialmåla koppar basert på interessene til mottakaren. Frå paragliding til kvalpar og meir - motivet kan vere kva som helst!</p><p>Vedlikehaldsinfo: Handvask i varmt såpevatn. Ikkje bruk oppvaskmaskin.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "914",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ms012",
+         "title_eng": "Godøya Rocks!",
+         "title_nor": "Steintøffe Godøya!",
+         "text_eng": "<p>This was painted as a reminder to my husband of a camping trip we took to the beautiful island of Godøya on the North Sea. I used a photograph of the waves crashing on a large rock for inspirtaion.</p>",
+         "text_nor": "<p>Denne vart måla som ei påminning til mannen min om ein campingtur vi tok til den vakre Godøya ved Nordsjøen. Som inspirasjon brukte eg eit fotografi av bølgjene som braut mot dei store steinane.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "5",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "nb001",
+         "title_eng": "Norskbær",
+         "title_nor": "Norske bær",
+         "text_eng": "<p>Norway is famous for its berries because of the long sun-filled summer nights. The extra sunlight ripens the berries so much that when used in jams or cakes you don't need to add sugar. These platters celebrate some of the most popular Norwegian berries featuring red currants, black currants, mountain blueberries, cloudberries and lingonberries. The platter pictured has already found a home but the design can be replicated on either a pink or (as pictured) brown platter.</p>",
+         "text_nor": "<p>Norge er vidgjete for sine bær. Dette er på grunn av dei lange solfyllte sommarnettene. Det ekstra sollyset modnar bæra så mykje at når dei blir brukt i syltetøy eller kake treng ein ikkje å tilsetje sukker. Desse fata set søkjelys på nokre av dei med populære norske bæra, ripsbær, solbær, blåbær, moltebær og tyttebær. Fatet på bilda har allereie funne ein heim, men utforminga can brukast på nytt på enten rosa eller (som på bilda) brunt fat.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "nb002",
+         "title_eng": "Norskbær, Breakfast Plates",
+         "title_nor": "Norske bær, frukostaskjettar",
+         "text_eng": "<p>Norway is famous for its berries because of the long sun-filled summer nights. The extra sunlight ripens the berries so much that when used in jams or cakes you don't need to add sugar. These breakfast plates celebrate some of the most popular Norwegian berries featuring red currants, black currants, cloudberries and lingonberries.</p><p>You can buy this product at <a href=\"http://epla.no/handlaget/produkter/777034/\" target=\"_blank\">Epla.no</a>.</p>",
+         "text_nor": "<p>Norge er vidgjete for sine bær. Dette er på grunn av dei lange solfyllte sommarnettene. Det ekstra sollyset modnar bæra så mykje at når dei blir brukt i syltetøy eller kake treng ein ikkje å tilsetje sukker. Desse frukostaskjettane set søkjelys på nokre av dei med populære norske bæra, ripsbær, solbær, moltebær og tyttebær.</p><p>Du kan kjøpe dette produktet på <a href=\"http://epla.no/handlaget/produkter/777034/\" target=\"_blank\">Epla.no</a>.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "gdbs001",
+         "title_eng": "Elephant Invitation",
+         "title_nor": "Elefantinvitasjon",
+         "text_eng": "<p>A baby shower invitation! (The real information was changed to protect privacy) I was given a picture of some fabric that was to be used in the baby's room and I took that one image to create the chalkboard-like design on this invitation. Because it was a winter shower I added some snowflakes and a cute elephant with earmuffs. We also discussed wording and \"Baby it's cold outside\" seemed to work just right for this December event!</p>",
+         "text_nor": "<p>Ein invitasjon til baby-fest! (Den faktiske informasjonen er endra av personhensyn) Eg fekk eit bilete av stoff som ville bli brukt i rommet til barnet. Eg brukte det biletet og laga ein krittavle-liknande design på denne invitasjonen. På grunn av at det var ein vinterfest la eg på nokre snøkrystallar og ein søt elefant med øyrevarmarar. Vi fann og ut at setninga \"Baby it's cold outside\" kunne passe perfekt for denne desemberhendinga.</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "914",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "720"
+            }
+         ]
+      },
+      {
+         "id": "gdpa001",
+         "title_eng": "Norway's National Day",
+         "title_nor": "17. mai-plakat",
+         "text_eng": "<p>17.mai 2014 was a big day in Norway! It was the 200 year jubilee for the country and I was invited to be on the planning committee. I offered to do the poster because of my graphic design background and even though there was a lot of information required for the poster I was able to fit it all in and still be festive.</p>",
+         "text_nor": "<p>17. mai 2014 var ein stor dag i Norge! Det var 200-årsjubileet for grunnlova og eg vart invitert til å vere med i den lokale 17. maikommiteen. Eg tok på meg å lage plakat siden eg hadde bakgrunn frå grafisk design. Sjølv om det var ei masse med informasjon som skulle vere med så fekk eg plass til alt og samstundes gjere den festeleg.</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "905",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "gdpa002",
+         "title_eng": "Dance Concert Poster",
+         "title_nor": "Plakat til dansekonsert",
+         "text_eng": "<p>An oldie but a goodie, this poster was used by Tulane University's Department of Theatre and Dance ten years ago!</p>",
+         "text_nor": "<p>Gammal, men god! Denne plakaten vart brukt av Fakultetet for Teater og Dans ved Tulane University for ti år sidan!</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "828",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "gdpa003",
+         "title_eng": "Art Exhibit Advertising",
+         "title_nor": "Reklame for kunstutstilling",
+         "text_eng": "<p>I co-curated an exhibit of local artists my senior year of college and designed the advertising. These designs were used for posters, flyers, postcards, tshirts and the large sign at the gallery.</p>",
+         "text_nor": "<p>Under mitt siste år på college var eg co-kurator på ei utstilling med lokale kunstnarar der eg utforma reklamen. Desse utformingane vart brukt til plakatar, brosjyrer, postkort, t-skjorter og det stole skiltet ved galleriet.</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "573"
+            }
+         ]
+      },
+      {
+         "id": "gdws001",
+         "title_eng": "Wedding Reception Signage",
+         "title_nor": "Skilt til bryllaupsfest",
+         "text_eng": "<p>For our wedding we had little signs place around the reception. I found some vintage floral cards and photoshopped a different geocache into each one. See if you can find all the caches! (There is only one per picture.)</p>",
+         "text_nor": "<p>I vårt bryllaup hadde vi små skilt plasert rundt i festlokalet. Eg fann nokre gamle blomekort og la til ulike geocachar digitalt på kvart av dei. Sjå om du kan finne alle cachane! (Det er berre ein i kvart bilete.)</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "885",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "882",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "885",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "889",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "5",
+            "imgx": "892",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "gdws002",
+         "title_eng": "Wedding Invitations",
+         "title_nor": "Bryllaupsinvitasjon",
+         "text_eng": "<p>Our wedding invitations! I drew the tree and the owls to personalize our invitations. They were printed on tan paper and wrapped in a green cardstock with a map of the church and reception locations and they were tied with some peach colored string.</p>",
+         "text_nor": "<p>Vår bryllaupsinvitasjon! Eg teikna treet og uglene for å gjere invitasjonane våre personlege. Dei vart trykte på rustraudt papir, folda grøn papp med eit kart over kyrkje- og festlokasjonane og knytt saman med ferskenfarga tråd.</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "527",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "527",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "527",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "527",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "gdws003",
+         "title_eng": "Wedding Stickers",
+         "title_nor": "Klistremerker til bryllaup",
+         "text_eng": "<p>These stickers were designed by me but printed by my sister and were used to seal the trailmix bags at our reception.</p>",
+         "text_nor": "<p>Desse klistremerka vart utforma av meg, men vart trykte av søster mi og vart brukt til å lukke trailmix-posane på bryllaupsfesten vår.</p>",
+         "group": [ "graphicdesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "200",
+            "imgy": "145"
+            }
+         ]
+      },
+      {
+         "id": "id001",
+         "title_eng": "Bedroom",
+         "title_nor": "Soverom",
+         "text_eng": "<p>This room lacked personality and, even, curtains. By using some elements of nature and a cozy color this room became a quiet retreat.</p>",
+         "text_nor": "<p>Dette rommet mangla personlegdom, og til og med gardiner. Ved å bruke nokre naturelement og ein varm farge vart dette rommet eit roleg krypinn.</p>",
+         "group": [ "interiordesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "2",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "5",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "6",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "7",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "8",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "9",
+            "imgx": "960",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "id002",
+         "title_eng": "Kitchen",
+         "title_nor": "Kjøken",
+         "text_eng": "<p>From orange marbled linoleum as a backsplash to incredibly orange walls this kitchen was screaming for a new look. Changing the wall color to light blue and refreshing the white trim brightened the room up so much it looked twice as big. The linoleum backsplash was replaced with brushed aluminum panels.</p>",
+         "text_nor": "<p>Frå skvettevern av oransje linoleum til veldig oransje veggar skreik dette kjøkenet etter ei endring. Ved å endre fargen på veggane til lys blå og friske opp dei kvite listene så lyste det opp rommet så det virka dobbelt så stort. Skvettevernet i lioleum vart bytt til børsta aluminiumspanel.</p>",
+         "group": [ "interiordesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "5",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "6",
+            "imgx": "1280",
+            "imgy": "960"
+            }
+         ]
+      },
+      {
+         "id": "id003",
+         "title_eng": "Closet",
+         "title_nor": "Klerom",
+         "text_eng": "<p>A small dark storage room found new life as a bright walk-in closet!</p>",
+         "text_nor": "<p>Eit lite mørkt rom fekk nytt liv som eit lyst klerom.</p>",
+         "group": [ "interiordesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "960"
+            }
+         ]
+      },
+      {
+         "id": "id004",
+         "title_eng": "Living Room",
+         "title_nor": "Stove",
+         "text_eng": "<p>The living room alone had seven different colors of brown paint. All of the walls were covered in holes and the windows were peeling old paint. By using a color inspired by birch leaves in fall the wall color changes as the sunlight changes throughout the day. The bright white trim, ceilings and accents gave new life to the freshly repaired walls. Moving furniture around and repurposing others made this make over inexpensive but effective.</p>",
+         "text_nor": "<p>Stova åleine hadde sju ulike brunfargar. Over alt på veggane var det hol og vindauga skrella av gammal måling. Ved å bruke farge inspirert av haustleg bjørkelauv endrar fargen på veggen seg etter korleis sollyset endrar seg gjennom dagen. Dei lyse kvite listene, taka og aksentar gav nytt liv til dei nyreparerte veggane. Ved å flytte møblar og gjenbruke andre gjorde denne renoveringa billeg, men effektiv.</p>",
+         "group": [ "interiordesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "2",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "4",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "5",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "6",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "7",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "8",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "9",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "10",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "11",
+            "imgx": "1280",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "id005",
+         "title_eng": "Dining Room",
+         "title_nor": "Etestove",
+         "text_eng": "<p>The dining room lacked personality because old holes were used to hang the pictures and the room was so dark. Now, with bright new paint and a fresh white window it is happier and open.</p>",
+         "text_nor": "<p>Etestova mangla personlegdom fordi gamle hol vart brukt til å henge bilete, og rommet var så mørkt. No, med ny lys måling og friske kvite vindauge, er den gladare og opnare.</p>",
+         "group": [ "interiordesign" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "5",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "6",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "7",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "8",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "ec001",
+         "title_eng": "Eggs in the Grass",
+         "title_nor": "Egg i graset",
+         "text_eng": "<p>No breakfast is complete without a smile! Hard or soft boild eggs can rest gently in the bright green grass accented with flower buds. Each cup has its own color – red, yellow, purple and blue.</p><p>You can buy this product at <a href=\"http://epla.no/handlaget/produkter/777023/\" target=\"_blank\">Epla.no</a>.</p>",
+         "text_nor": "<p>Ingen frukost er komplett utan eit smil! Hard- eller blautkokte egg kan kvile mjukt i det skinande grøne graset med tilhøyrande blomeknoppar. Kvart eggeglas har sin eigen farge - raud, gul, fiolett og blå.</p><p>Du kan kjøpe dette produktet på <a href=\"http://epla.no/handlaget/produkter/777023/\" target=\"_blank\">Epla.no</a>.</p>",
+         "group": [ "paint" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "4",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "ep001",
+         "title_eng": "Floral Meerkat",
+         "title_nor": "Blømande surikat",
+         "text_eng": "<p>Designed for a zoo-themed nursery, I used the floral pattern they used for the crib fabric as inspiration for the freehanded flowers.</p>",
+         "text_nor": "<p>Utforma til eit dyrehageinspirert barnerom. Eg brukte blomemønsteret dei hadde valt til sengetøy i krybba som inspirasjon til å lage dei frihandteikna blomane.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "720"
+            }
+         ]
+      },
+      {
+         "id": "ep002",
+         "title_eng": "Rooster on Mixer Cover",
+         "title_nor": "Hane på kjøkenmaskinkjole",
+         "text_eng": "<p>Our mixer lives on our kitchen island due to lack of cabinet space so I wanted to make a cover for it not only to keep in clean from dust but to add a little color to the room. This rooster was embroidered on muslin and I used gingham fabric for the side panels. I made the sewing pattern for this mixer cover and can make one for any counter-top appliance.</p>",
+         "text_nor": "<p>Vår kjøkenmaskin står på kjøkenøya på grunn av manglande rom i skåpene, så eg ville lage eit deksel for den. Ikkje berre for å halde den rein, men også for å bringe litt farge inn i rommet. Denne hanen er brodert på musselin og eg brukte rutete stoff til sidefelta. Eg lagde symønsteret for denne kjøkenmaskinkjolen og kan lage eit for alle typar kjøkenutstyr.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "853",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "3",
+            "imgx": "853",
+            "imgy": "1280"
+            }
+         ]
+      },
+      {
+         "id": "fp001",
+         "title_eng": "Mattisselet",
+         "title_nor": "Mattisselet",
+         "text_eng": "<p>This serene cabin overlooks the fjord is at least 150 years old and has now been recreated in felt as a sweet reminder of summer days up on the mountain. Embroidered accents add depth and texture to this felted picture.</p>",
+         "text_nor": "<p>Dette støylsselet med utsikt over fjord og fjell, er minst 150 år gammalt og har no blitt gjenskapt i toving. Det er ei søt påminning om sommardagar oppe i fjellet. Broderte akksentar gjev djupne og tekstur til dette tova biletet.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "960",
+            "imgy": "1280"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo001",
+         "title_eng": "God Jul Santa",
+         "title_nor": "God Jul Santa",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo002",
+         "title_eng": "God Jul Elf",
+         "title_nor": "God Jul Elf",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo003",
+         "title_eng": "Joyful Reindeer",
+         "title_nor": "Sprudlande rein",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "3",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo004",
+         "title_eng": "Geometric Snowflake",
+         "title_nor": "Geometrisk snøfnugg",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "960"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo005",
+         "title_eng": "Two Letter Children",
+         "title_nor": "To bokstavbarn",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      },
+      {
+         "id": "eo006",
+         "title_eng": "Old-fashioned Glass Ornament",
+         "title_nor": "Gammaldags glasornament",
+         "text_eng": "<p>Available in a multitude of size and color possibilities! Color-fast embroidery thread is used on a cotton background while a complimentary fabric is used on the back to create a mini pillow. Ribbon or yarn can be selected as the hanger.</p>",
+         "text_nor": "<p>Tilgjengeleg i ei mengde storleikar og fargekombinasjonar! Fargerik broderitråd er brukt på bommulsbakgrunn medan passande stoff er brukt på baksida for å lage ei minipute. Sløyfe eller garn kan brukast som hengar.</p>",
+         "group": [ "fiberart" ],
+         "images": [
+            {
+            "seqid": "1",
+            "imgx": "1280",
+            "imgy": "853"
+            },
+            {
+            "seqid": "2",
+            "imgx": "1280",
+            "imgy": "853"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "pages": [
+      {
+         "id": "home",
+         "title_eng": "Home",
+         "title_nor": "Heim",
+         "text_eng": "",
+         "text_nor": "",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "shop",
+         "title_eng": "Shop",
+         "title_nor": "Butikk",
+         "text_eng": "<p>While most custom orders are best ordered through direct mail or phone conversations I do also have finished items for sale on epla.no! Click on the banner below to visit my shop!</p><p><a href=\"http://abcreatives.epla.no\" target=\"_blank\"><img alt=\"ABC @ epla.no\" src=\"/images/logo-abcatepla.png\" width=\"490\" height=\"66\" /></a></p>",
+         "text_nor": "<p>Dei fleste spesiallaga ordrar er best å gjere via direkte e-post eller pr. telefon, men eg har også ferdige produkt for sal på epla.no! Klikk på banneren under for å vitje butikken min!</p><p><a href=\"http://abcreatives.epla.no\" target=\"_blank\"><img alt=\"ABC @ epla.no\" src=\"/images/logo-abcatepla.png\" width=\"490\" height=\"66\" /></a></p>",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "portfolio",
+         "title_eng": "Portfolio",
+         "title_nor": "Portfolio",
+         "text_eng": "<p>Coming soon.</p>",
+         "text_nor": "<p>Kjem snart.</p>",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "about",
+         "title_eng": "About",
+         "title_nor": "Om",
+         "text_eng": "<p>Anndi Bergset was born and raised in Ohio where her family graciously supported her obsession with museums and fed her appetite for creativity by always keeping the crayon box full and blank paper available. She graduated from Gustavus Adolphus College in St. Peter, Minnesota in 2003 with a Bachelor of Arts degree in Art History and followed that three years later, in 2006, with a Master of Fine Arts degree in Theatrical Design from Tulane University in New Orleans, Louisiana. An internship relocated her to the Washington DC metro area where she worked in a production studio and later found full-time work in a fused glass studio and multiple theatres as a set designer and stage prop designer. </p><p>In 2013 she followed her heart to Norway where she now lives with her husband and puppy in a little red house up on a mountain. When Anndi made the big move across the ocean she had more boxes of art supplies and power tools than clothes and now creates from her studio full of windows overlooking the fjord below. In the summer she guides tourists around the Norwegian countryside showing off the glaciers, fjords and mountains. When at home, Anndi enjoys gardening and growing her own vegetables - experimenting with what can be grown at 350 meters above sea level. </p><p>Using all the knowledge she has acquired from formal education and work experiences, she combines techniques to reach across the various creative fields - opening doors to even more creative solutions.</p>",
+         "text_nor": "<p>Anndi Bergset vart fødd og vaks opp i Ohio i USA, der familien heilhjarta støtta hennar glød for museum og næra hennar appetitt for kreativitet ved å alltid halde teikestiftboksen full og ha blanke ark tilgjengeleg. I 2003 vart ho uteksaminert frå Gustavus Adolphus College i St. Peter, Minnesota med Bachelor of Art Historie. I 2006 følgde ho opp dette med Master of Fine Arts i teaterdesign frå Tulane universitet i New Orleans, Louisiana. Ho hadde praksis i omlandet til Washington DC der ho jobba i eit produksjonsstudio og fekk seinare full jobb i eit fusion glasstudio og ved mange teater som kulisse- og rekvisittdesigner.</p><p>I 2013 følgde ho hjartet til Norge der ho no bur saman med mann og hund i eit lite raudt hus på ei fjellhylle. Då Anndi flytta over havet hadde ho med seg fleire boksar med kunstutstyr og verktøy enn klede. No skapar ho frå sitt studio som er fyllt av vindauge med utsikt over fjorden. Om sommaren guidar ho turistar rundt i den norske vestlandsnaturen med brear, fjordar og fjell. I heimen likar ho å jobbe i hagen og dyrke sine eigne grønsaker, og eksperimenterer med kva som går å dyrke 350 meter over havet.</p><p>Ved å bruke kunnskap frå formell utdanning og jobberfaring kombinerar ho teknikkar på tvers av ulike kreative felt. Dette opnar dører til endå fleire kreative løysingar.</p>",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "contact",
+         "title_eng": "Contact",
+         "title_nor": "Kontakt",
+         "text_eng": "",
+         "text_nor": "",
+         "group": [],
+         "images": [],
+         "formlegend_name": "Name",
+         "formlegend_name_nor": "Namn",
+         "formlegend_email": "Email",
+         "formlegend_email_nor": "E-post",
+         "formlegend_message": "Message",
+         "formlegend_message_nor": "Melding",
+         "formlegend_submit": "Send",
+         "formlegend_submit_nor": "Send"
+      },
+      {
+         "id": "blog",
+         "title_eng": "Blog",
+         "title_nor": "Blogg",
+         "text_eng": "",
+         "text_nor": "",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "interiordesign",
+         "title_eng": "Interior Design",
+         "title_nor": "Interiørdesign",
+         "text_eng": "<p>Sometimes a room just needs a little facelift to shine a little more. It's amazing what a coat of paint and the right accessories can do to make your house feel more like a home, reflecting the personalities of the inhabitants.</p>",
+         "text_nor": "<p>Av og til treng eit rom berre ei lita ansiktsløfting for å skine litt meir. Det er fantastisk kva eit lag med måling og det rette tilbehøyret kan gjere for å få eit hus som følest meir som ein heim som reflekterar personlegdomane til dei som bur der.</p>",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "paintandneedlework",
+         "title_eng": "Paint and Needlework",
+         "title_nor": "Måle og nåle",
+         "text_eng": "<p>While some products have already found homes they are featured here as inspiration for future orders. If you see a style or motif you like just let me know and I will work to make a one-of-a-kind version just for you! If the item is still for sale it will be noted in the description. </p>",
+         "text_nor": "<p>Sjølv om nokre av produkta allereie har funne ein heim så har eg lagt dei ut her som inspirasjon til framtidige ordrar. Viss du ser ein stil eller eit motiv du likar så sei ifrå og eg kan jobbe med å lage ein eineståande versjon til deg! Viss produktet framleis er for sal vil det stå i produktteksten.</p>",
+         "titlepaint": "Paint",
+         "titlepaint_nor": "Måling",
+         "titlefiberart": "Fiber Art",
+         "titlefiberart_nor": "Fiberkunst",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "graphicdesign",
+         "title_eng": "Graphic Design",
+         "title_nor": "Grafisk design",
+         "text_eng": "",
+         "text_nor": "",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "bakedgoods",
+         "title_eng": "Baked Goods",
+         "title_nor": "Baking",
+         "text_eng": "",
+         "text_nor": "",
+         "group": [],
+         "images": []
+      },
+      {
+         "id": "response",
+         "title_eng": "Response",
+         "title_nor": "Respons",
+         "text_eng": "<p>Thanks you for contacting me.</p>",
+         "text_nor": "<p>Takk for at du tok kontakt.</p>"
+      }
+   ]
+}

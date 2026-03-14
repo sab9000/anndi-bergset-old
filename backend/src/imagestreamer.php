@@ -7,8 +7,8 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
    
 }
 
-$prodId = $_REQUEST[ 'pid' ] ?? '';
-$seqId = $_REQUEST[ 'sid' ] ?? '';
+$prodId = preg_replace( '/[^a-zA-Z0-9_-]/', '', $_REQUEST[ 'pid' ] ?? '' );
+$seqId = preg_replace( '/[^a-zA-Z0-9_-]/', '', $_REQUEST[ 'sid' ] ?? '' );
 $x = (int) ($_REQUEST[ 'x' ] ?? 0);
 $y = (int) ($_REQUEST[ 'y' ] ?? 0);
 $type = $_REQUEST[ 'typ' ] ?? '';

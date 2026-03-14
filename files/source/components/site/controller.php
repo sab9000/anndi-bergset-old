@@ -228,16 +228,18 @@ class Controller extends BaseClass {
          
       }
    
-      if ( file_exists( realpath( $path ) ) ) {
-         
+      $docRoot = realpath( __DIR__ . '/../../../webroot/www' );
+      $realFile = realpath( $path );
+      if ( $realFile !== false && strpos( $realFile, $docRoot ) === 0 && is_file( $realFile ) ) {
+
          if ( !empty( $curCT ) ) {
-            
+
             header( 'Content-Type: ' . $curCT );
-            
+
          }
-         
-         readfile( realpath( $path ) );
-         
+
+         readfile( $realFile );
+
       }
       
    }

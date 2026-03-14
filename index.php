@@ -127,9 +127,10 @@ else {
       $curCT = 'application/octet-stream';
    }
 
-   if ( file_exists( realpath( $realdopath ) ) ) {
+   $realFile = realpath( $realdopath );
+   if ( $realFile !== false && strpos( $realFile, realpath( __DIR__ ) ) === 0 && is_file( $realFile ) ) {
       if ( !empty($curCT) ) header( 'Content-Type: ' . $curCT );
-      readfile( realpath($realdopath) );
+      readfile( $realFile );
    }
 }
 

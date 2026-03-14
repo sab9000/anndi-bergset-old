@@ -56,7 +56,7 @@ function redirect( $url = '' ) {
    header( "Location: $url" );
    
    // If no success.
-   die( sprintf( '<h1>HTTP/1.0 302 Found</h1>The object has moved <a href="%s">here</a>.', $url ) );
+   die( sprintf( '<h1>HTTP/1.0 302 Found</h1>The object has moved <a href="%s">here</a>.', htmlspecialchars( $url, ENT_QUOTES, 'UTF-8' ) ) );
       
 }
 
